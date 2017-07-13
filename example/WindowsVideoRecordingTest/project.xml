@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="WindowsVideoRecordingTest" package="com.sample.windowsvideorecordingtest" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="WindowsVideoRecordingTest" />
+
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+	<haxelib name="WindowsVideoRecording" />
+
+	<assets path="Assets" rename="assets" />
+
+</project>
